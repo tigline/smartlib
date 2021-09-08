@@ -1,6 +1,0 @@
-use_frameworks!
-target 'ldv_Common_lib_Tests' do
-  pod 'ldv_Common_lib', :path => '../'
-  
-  
-end
